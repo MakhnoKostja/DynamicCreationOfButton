@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex</string>
+    <string name="left">left</string>
+    <string name="center">center</string>
+    <string name="right">right</string>
+    <string name="create">Create</string>
+    <string name="clear">Clear</string>
+</resources>
